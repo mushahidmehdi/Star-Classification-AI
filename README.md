@@ -3,7 +3,7 @@
 # NASA-Star-Classification-AI-Model
 
 This is a star classication project by NASA, I'm doing this project as a hobby and explore differnt Model using sklearn to learn more about interstaller bodies and
-diffent star types. Let's have a close look of our as a star,
+diffent star types. Let's have a close look of our Sun.
 
 ![SUN](https://user-images.githubusercontent.com/66418035/119218459-0e009e80-bae9-11eb-9915-728f1eb45541.jpeg)
 
