@@ -3,10 +3,7 @@
 # NASA-Star-Classification-AI-Model
 
 This is a star classication project by NASA, I'm doing this project as a hobby and explore differnt Model using sklearn to learn more about interstaller bodies and
-diffent star types. Let's have a close look of our Sun.
-
-![SUN](https://user-images.githubusercontent.com/66418035/119218459-0e009e80-bae9-11eb-9915-728f1eb45541.jpeg)
-
+diffent star types. 
 What are stars? when we look at the night sky, we notice that some twinking dots, we called them star, but my actullay question is what these shining dots are and is there any difference in them. We will find out soon from astronomical data from NASA.
 
 
