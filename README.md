@@ -1,5 +1,4 @@
-
-
+![GitHub repo size](https://img.shields.io/github/repo-size/mushahidmehdi/NASA-Star-Classification-AI-Model)
 # NASA-Star-Classification-AI-Model
 
 This is a star classication project by NASA, I'm doing this project as a hobby and explore differnt Model using sklearn to learn more about interstaller bodies and
