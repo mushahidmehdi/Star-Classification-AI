@@ -1,4 +1,20 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/mushahidmehdi/NASA-Star-Classification-AI-Model)
+![Conda (channel only)](https://img.shields.io/conda/vn/conda-forge/python?style=plastic)
+
+
+![Read the Docs](https://img.shields.io/readthedocs/pip?style=plastic)
+![GitHub commit merge status](https://img.shields.io/github/commit-status/mushahidmehdi/Full-Stack-Web-Application/main/c49a9cf916c11d163b7b4d1256b89c211793d6ee)
+
+
+
+
+![Conda](https://img.shields.io/conda/pn/conda-forge/python)
+
+
+
+
+
+
 # NASA-Star-Classification-AI-Model
 
 This is a star classication project by NASA, I'm doing this project as a hobby and explore differnt Model using sklearn to learn more about interstaller bodies and
