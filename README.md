@@ -17,7 +17,7 @@
 
 # NASA-Star-Classification-AI-Model
 
-This is a star classication project avialable on Kaggle by NASA. This project explore differnt Model using sklearn to learn more about interstaller bodies and
+This is a star classication project available on Kaggle by NASA. This project explore differnt Model using sklearn to learn more about interstaller bodies and
 diffent star types. 
 What are stars? when we look at the night sky, we notice that some twinking dots, we called them star, but my actullay question is what these shining dots are and is there any difference in them. We will find out soon from astronomical data from NASA.
 
