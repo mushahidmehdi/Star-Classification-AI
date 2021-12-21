@@ -26,6 +26,4 @@ K (orange), and M (red), from hottest and biggest to coolest and smallest. Stars
 
 ![star color chart](https://user-images.githubusercontent.com/66418035/119218438-f1646680-bae8-11eb-8c73-e9f228442e54.png)
 
-#### We will try diffent model to make perfect prediction which star is it? from the given data. 
-
 
