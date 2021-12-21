@@ -19,7 +19,6 @@
 
 This is a star classication project available on Kaggle by NASA. This project explore differnt Model using sklearn to learn more about interstaller bodies and
 diffent star types. 
-What are stars? when we look at the night sky, we notice that some twinking dots, we called them star, but my actullay question is what these shining dots are and is there any difference in them. We will find out soon from astronomical data from NASA.
 Stars vary in color – because they vary in temperature. Hotter stars appear blue or white, while cooler stars look orange or red. Astronomers use these
 characteristics to classify main sequence stars into categories by color and temperature: O (blue), B (blue-white), A (white), F (yellow-white), G (yellow),
 K (orange), and M (red), from hottest and biggest to coolest and smallest. Stars at the ends of their lives are out of the main sequence. These include supergiants
