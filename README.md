@@ -5,14 +5,7 @@
 ![Read the Docs](https://img.shields.io/readthedocs/pip?style=plastic)
 ![GitHub commit merge status](https://img.shields.io/github/commit-status/mushahidmehdi/Full-Stack-Web-Application/main/c49a9cf916c11d163b7b4d1256b89c211793d6ee)
 
-
-
-
 ![Conda](https://img.shields.io/conda/pn/conda-forge/python)
-
-
-
-
 
 
 # NASA-Star-Classification-AI-Model
